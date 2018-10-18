@@ -2,4 +2,8 @@
 label: was ist das
 hide_body: false
 is_partial: false
-fields: []
+fields:
+- type: textarea
+  name: dsafdssadf
+  label: dsafds
+  description: asdfsaf
